@@ -1,0 +1,13 @@
+{
+  "name": "voice-transcription",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build" },
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "openai": "^4.52.7"
+  },
+  "devDependencies": { "typescript": "^5", "@types/react": "^18", "@types/node": "^20" }
+}
